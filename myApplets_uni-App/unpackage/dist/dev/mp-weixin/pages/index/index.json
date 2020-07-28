@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "myApplets",
+  "usingComponents": {
+    "goods-list": "/components/goods_list/goods_list",
+    "goods-detail": "/pages/goods-detail/goods-detail"
+  }
+}

@@ -1,0 +1,1 @@
+2.第二步：cmd 或 PowerShell 执行 node ./src/app.js
